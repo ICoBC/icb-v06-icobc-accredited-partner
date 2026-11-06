@@ -1,0 +1,31 @@
+{
+  "course_id": "ICB-V06",
+  "repository": "icb-v06-icobc-accredited-partner",
+  "repository_url": "https://github.com/ICoBC/icb-v06-icobc-accredited-partner",
+  "title": "ICoBC Accredited Partner",
+  "subtitle": "Accreditation for consultants who prepare clients for the Seal.",
+  "version": "1.0.0",
+  "series": "Validation",
+  "skill": "Quality assurance and accreditation",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "C",
+  "stage_name": "Competency",
+  "alignment_code": "ICSF-QUAL-L3-C",
+  "badge_name": "ICoBC Accredited Partner (Competency, L3)",
+  "hours": "15",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-v06/",
+  "parts": [
+    "About this course",
+    "Supervised engagement guidance",
+    "Partner code of conduct",
+    "Accreditation panel",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 9
+}
